@@ -1,7 +1,5 @@
-![CI](https://github.com/glickens/mini-project-1-3-ci
-/actions/workflows/ci.yml/badge.svg)
 # mini-project-1-3-ci
-
+![CI](https://github.com/glickens/mini-project-1-3-ci/actions/workflows/ci.yml/badge.svg)
 # Automated CI Pipeline (GitHub Actions - Python)
 
 ## Description
