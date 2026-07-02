@@ -1,2 +1,2 @@
 def test_addition():
-    assert 2 + 2 == 5 # INTENTIONAL FAIURE
+    assert 2 + 2 == 4 # Success
